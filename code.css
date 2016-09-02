@@ -1,0 +1,18 @@
+html { 
+  background: url('F:/Chitra Raj/docs/web development/projects/codedailymember/pictures/coder ppl.jpg') no-repeat center center fixed; /*for background image to be full screen*/ 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.big-icon {
+    font-size: 32px; /*to make the contact icons large */
+
+	}
+	
+ul#links li{                    /* to have good spacing between the icons and in a line*/
+	 display:inline;                  
+	 width: 20px;
+	  padding: 10px 10px;
+	  
+}
